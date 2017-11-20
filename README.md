@@ -15,6 +15,9 @@ No pacote DAO está a classe com os exemplos de insert, update, select e delete.
 
 In the DAO package there is a class with crud examples
 
+IMPORTANTE
+No eclipse, importe o driver jdbc .jar para o projeto, em seguida clique com o botão direito, vá em Build Path > Add to Build Path
+
 O código é muito simples, apenas para estudos sobre conexão com o banco mysql, livre para melhoria e implementação.
 Gentileza manter os créditos ou referência, obrigado!
 
